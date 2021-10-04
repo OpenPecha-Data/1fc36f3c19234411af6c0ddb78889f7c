@@ -1,4 +1,19 @@
 id: 7ffbf79bdb6b414cbdef69b526abff98
 annotation_type: Sabche
-revision: '00001'
-annotations: {}
+revision: '00003'
+annotations:
+  ff008ccc0bd9452a80d1f9255ec9c870:
+    span:
+      start: 393
+      end: 910
+    metadata: {}
+  c3098f7a99d2459a8ff27d150262e43c:
+    span:
+      start: 6300
+      end: 6300
+    metadata: {}
+  eae3d3f16c1d48e9884364e719095bbf:
+    span:
+      start: 6302
+      end: 6721
+    metadata: {}
